@@ -1,2 +1,1 @@
-# acceptancetest
- Acceptancetest de Encuentralo Fácil 
+# acceptance test
